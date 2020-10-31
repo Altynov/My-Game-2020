@@ -88,7 +88,6 @@ class GameViewController: UIViewController {
         
         removeShip()
         ship = getShip()
-        
         addShip()
         
     }
